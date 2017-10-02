@@ -92,11 +92,11 @@
 ### 17- SQLite
 
 ###Subprocesos
-Thread
-AsyncTask
-runOnUiThread(Runnable)
-post(Runnable)
-View.postDelayed(Runnable, long)
+`Thread`
+`AsyncTask`
+`runOnUiThread(Runnable)`
+`post(Runnable)`
+`View.postDelayed(Runnable, long)`
 
 
 ## Otras
@@ -159,6 +159,7 @@ View.postDelayed(Runnable, long)
 `Android con Scala`
 
 
+
 ###Task
-`ThreadPoolExecutor`
-`Calback`
+ThreadPoolExecutor
+Calback
