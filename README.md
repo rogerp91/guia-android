@@ -92,6 +92,7 @@
 ### 17- SQLite
 
 ###Subprocesos
+
 `Thread`
 `AsyncTask`
 `runOnUiThread(Runnable)`
@@ -100,6 +101,7 @@
 
 
 ## Otras
+
 ### 1- Google Maps
 ### 2- Carousel
 ### 4- Mapbox
@@ -108,6 +110,7 @@
 
 
 ## Librerías
+
 [Librerías](https://github.com/wasabeef/awesome-android-libraries))
 
 ##  Librerías - Recomendadas
@@ -127,9 +130,11 @@
 
 
 ## Avanzado
+
 [Guía](https://github.com/rogerp91/android-guidelines/blob/master/project_and_code_guidelines.md
 
 ### Librerías
+
 `RxJava`
 `RxAndroid`
 `Dagger(Square) - Inyenccion de dependencía`
@@ -149,17 +154,18 @@
 `mvp‑clean - Clean Architecture`
 `mvvm‑databinding - Model‑View‑ViewModel`
 
-###Estilos
+### Estilos
+
 `Annotations`
 `Layer Events`
 `Room`
 
-###Lenguajes
+### Lenguajes
+
 `Android con Kotlin`
 `Android con Scala`
 
+### Task
 
-
-###Task
 `ThreadPoolExecutor`
 `Calback`
